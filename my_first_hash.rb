@@ -1,4 +1,7 @@
-def my_hash 
+def my_hash = {
+  "person" => "Christy"
+  "dog" => "Louie"
+}
 
   
 end

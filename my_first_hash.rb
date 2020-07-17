@@ -1,9 +1,5 @@
 def my_hash 
-  things_i_love = {
-  "person" = "Christy"
-  "dog" = "Louie"
-}
- 
+
   
 end
 

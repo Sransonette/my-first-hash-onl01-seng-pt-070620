@@ -1,8 +1,4 @@
-def my_hash 
-  love = {
-  "person" => "Christy"
-  "dog" => "Louie"
-}
+def my_hash = {"person" => "Christy" "dog" => "Louie"}
 
   
 end

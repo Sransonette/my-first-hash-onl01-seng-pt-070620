@@ -1,5 +1,6 @@
 def my_hash = {
-  
+  "person" = "Christy"
+  "dog" = "Louie"
 }
  
   

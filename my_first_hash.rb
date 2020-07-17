@@ -1,7 +1,5 @@
 def my_hash 
   your_hash = {"person" => "Christy", "dog" => "Louie"}
-
-  
 end
 
 
